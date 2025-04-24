@@ -1,6 +1,5 @@
 # Milestone1BAN6440
 ## Spam Filtering Email System Using Machine Learning Algorithm
-# 📧 Spam Email Classification using Machine Learning
 
 This project implements a spam filtering system using machine learning models trained on a labeled dataset of email messages. The goal is to classify emails as **spam** or **not spam** based on their text content.
 
