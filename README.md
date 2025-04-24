@@ -59,6 +59,5 @@ The `unittest` module was used to verify that all models achieved reasonable per
 
 ## Files in the Repository
 - `Milestone1BAN6440.ipynb` – Full Jupyter Notebook with all code and outputs
-- `email_spam.csv` - dataset
 - `README.md` – Project overview and instructions
 - `Milestone1BAN6440.pptx` – Summary presentation of the project
